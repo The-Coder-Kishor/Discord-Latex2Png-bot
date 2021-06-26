@@ -23,5 +23,4 @@ def latex_to_img(tex):
 
 async def lat(equation):
     latex_to_img(equation).save('l.png')
-    img = './l.png'
-    return img
+    return 0
