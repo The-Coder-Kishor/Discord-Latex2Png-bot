@@ -5,9 +5,13 @@ A not so good but okay version of a latex renderer for discord
 I wrote the code in python 3.8
 Packages:
 .. code:: sh
-    # Windows
+    # Discord.py
     pip install -U discord.py
+    
+    # Matplotlib
     pip install -U matplotlib
+    
+    # Pillow
     pip install Pillow
 
 Features:
