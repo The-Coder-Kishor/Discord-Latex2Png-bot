@@ -3,8 +3,8 @@ Latex2Png Discord bot
 A not so good but okay version of a latex renderer for discord
 
 I wrote the code in python 3.8
-Packages:
 .. code:: sh
+
     # Discord.py
     pip install -U discord.py
     
