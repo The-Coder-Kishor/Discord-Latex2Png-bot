@@ -1,6 +1,6 @@
 Latex2Png Discord bot
 ==========
-A not so good but okay version of a latex renderer for discord
+A simple latex renderer for discord
 
 I wrote the code in python 3.8 and it uses the following packages: Discord.py, Matplotlib and Pillow
 
